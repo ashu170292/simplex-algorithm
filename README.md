@@ -31,3 +31,6 @@ s3 + m3 + L3 <= 275
 9s3 + 17 m3 + 21 L3 <= 4200
 
 s1 , s2 , s3 , m1 , m2 , m3 , L1 , L2 , L3 >=0
+
+The results from the coded algorithm will be verified with the linear program solver of MATLAB -linprog. The results from the coded algo and linprog must be the same(or close)
+
